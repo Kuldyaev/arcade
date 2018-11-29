@@ -9,7 +9,7 @@ Once a the player collides with an enemy, the game is reset and the player moves
 Once the player reaches the water the game is won.
 And the game starts over.
 
-demo
+
 ![demo](https://github.com/Kuldyaev/arcade/blob/master/images/demo.gif)  
 
 enjoy!
