@@ -12,6 +12,8 @@ And the game starts over.
 demo
 ![demo](https://github.com/Kuldyaev/arcade/blob/master/images/demo.gif)  
 
+enjoy!
+
 
 
 
